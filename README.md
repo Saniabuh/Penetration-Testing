@@ -1,4 +1,4 @@
-Penetration testing is an important part of any complete security strategy since it assist organisation in identifying and mitigating potential risks before attackers can exploit them. Organisation may guarantee that they are effectively protecting their assets and limiting        risk of a security breach by implementing a strategic approach to penetration testing.
+Penetration testing is an important part of any complete security strategy since it assist organisation in identifying and mitigating potential risks before attackers can exploit them. Organisation may guarantee that they are effectively protecting their assets and limiting risk of a security breach by implementing a strategic approach to penetration testing.
 
 This Portfolio will define some the strategies organisation and businesses need to develop to guarantee the security of their information assets. Four domains would be discussed. The domains are System hacking, Foot printing and Reconnaissance, Hacking Mobile Platform, and Distributed of Denial of Service (DDOS). Each domains contains mitigation techniques in addressing the vulnerabilities discovered.
 
@@ -28,7 +28,7 @@ For this report, Passive and active techniques were adopted as means of gatherin
 Attack 3: Hacking Mobile Platform
 Hacking mobile platforms refers to the act of gaining unauthorised access to a mobile operating system or its associated hardware components, such as smartphones, tablets, and other mobile devices.  Hackers frequently employ a variety of tactics to exploit flaws in the mobile operating system, apps, or the device itself, with the ultimate goal of stealing sensitive information or remotely manipulating the device. Attackers have developed malicious software and new techniques to target Android users. As a result, various scholars have confirmed the use of existing methodologies or proposed new tools that may be more effective in correctly identifying malicious apps
 
-1.4 Attack 4: Distributed Denial of Service (DDOS) Attack
+Attack 4: Distributed Denial of Service (DDOS) Attack
 Distributed denial of service attack is a type of attack where multiple compromised systems, often referred to as a botnet, are used to flood a target website or network with traffic, making it unavailable to its intended users. Because of their distributed nature, DDoS attacks are notoriously difficult to defend against.
 
 The scope of the attack is within Microsoft Windows hosted on VMWARE and VirtualBox. The tools used for the attack which will be shown in the appendix are Kali Windows 8, Windows 7, and Windows 10, Higher Orbit Ion Canon and Hping3. Window 10 is the target device while Windows 8 and 7 are the attackers(Botnet) performing the attack. The Vulnerabilities exploited in the attack were the result of an ineffective firewall on the system to prevent the attack from taking place.
