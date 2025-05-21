@@ -1,0 +1,10 @@
+System Hacking
+To perform this attack, Kali and Mr. Robot were installed on VirtualBox. Kali is the attacking machine, and Mr. Robot is the target system. The scope of the attack covers only the target machine, Mr. Robot.
+
+Stage 1: Reconnaissance and Foot-Printing
+This stage involves finding information about the target system, infrastructure, and networks to spot possibilities to breach them. The type of reconnaissance deployed in this attack is both active and passive.
+
+Step 1: Using Netdiscover
+This is an active address reconnaissance tool designed for wireless networks without DHCP servers. To perform reconnaissance on the target machine, Netdiscover sends out ARP probes and listens for responses, which allows it to determine the IP and MAC addresses of active network devices. Mr. Robot. Figure 2 shows the use of Netdiscover to discover the active network or live.
+
+Command: $sudo netdiscover.
