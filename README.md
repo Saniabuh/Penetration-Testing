@@ -1,6 +1,6 @@
 Penetration testing is an important part of any complete security strategy since it assist organisation in identifying and mitigating potential risks before attackers can exploit them. Organisation may guarantee that they are effectively protecting their assets and limiting risk of a security breach by implementing a strategic approach to penetration testing.
 
-This Portfolio will define some the strategies organisation and businesses need to develop to guarantee the security of their information assets. Four domains would be discussed. The domains are System hacking, Foot printing and Reconnaissance, Hacking Mobile Platform, and Distributed of Denial of Service (DDOS). Each domains contains mitigation techniques in addressing the vulnerabilities discovered.
+This Portfolio will define some of the strategies organisation and businesses need to develop to guarantee the security of their information assets. Four domains would be discussed. The domains are System hacking, Foot printing and Reconnaissance, Hacking Mobile Platform, and Distributed of Denial of Service (DDOS). Each domains contains mitigation techniques in addressing the vulnerabilities discovered.
 
 Attack 1: System Hacking
 System hacking is the unauthorised access and manipulation of computer systems or networks. It involves exploiting vulnerabilities in a system's security to gain access to confidential information, disrupt operations, or cause damage to the system. The state of security is a state of protection from harm or destruction. The term is also used to describe network security.
