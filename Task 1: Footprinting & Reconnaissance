@@ -1,0 +1,13 @@
+In conducting this activity, a passive footprinting approach was initially adopted, using tools such as Whois, DNSdumpster, Maltego, and Netcraft 
+to gather information about the targets. For the reconnaissance phase, both passive and active methods were employed. 
+The tools used included Recon-ng, Nmap (Network Mapper), and Angry IP Scanner.
+
+WHOIS
+
+WHOIS is a protocol used to query databases that store registration details for domain names, IP addresses, and other internet resources. 
+A typical WHOIS lookup returns information such as the domain registrant’s name and contact details, the domain’s registration and expiration dates, 
+associated name servers, and other technical metadata.
+
+To demonstrate the type of information WHOIS can extract about a target, a query was performed against https://cyber94.com.ng
+WHOIS can be accessed through its official website or executed as a command-line tool. For this exercise, the command-line method was used, 
+as shown in the screenshot below.
